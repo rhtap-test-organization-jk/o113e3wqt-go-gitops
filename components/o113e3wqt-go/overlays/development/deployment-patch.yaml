@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-hlsws.hlsws.sandbox9.opentlc.com/rhtap/rhtap-qe-go:jenkins-ef888c01fe321fd1aa549cca7313fecd4a4d9c6b
+        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-hlsws.hlsws.sandbox9.opentlc.com/rhtap/rhtap-qe-go:jenkins-3ccf868445ed0559b1ca282ce938b038f50ba7ce
           name: container-image
